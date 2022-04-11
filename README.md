@@ -1,1 +1,1 @@
-tweet responsivo
+tweet
